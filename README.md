@@ -1,1 +1,1 @@
-# Receipe
+# Receipe Management System
